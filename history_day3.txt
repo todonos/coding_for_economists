@@ -1,0 +1,36 @@
+    1  git remote add origin https://github.com/todonos/coding_for_economists.git
+    2  git branch -M main
+    3  git push -u origin main
+    4  git add main.py
+    5  git commit -m "Added main.py"
+    6  git config --global user.email "stodgerel@gmail.com"
+    7  git config --global user.name "todonos"
+    8  git push -u origin main
+    9  git cpnfig credintial.username "todonos"
+   10  git copnfig credintial.username "todonos"
+   11  git config credintial.username "todonos"
+   12  git push -u origin main
+   13  git onfig credentials.username "todonos"
+   14  git config credentials.username "todonos"
+   15  git config credentials.username "todonos"
+   16  git push -u origin main
+   17  git config credentials.username "todonos"
+   18  git push -u origin main
+   19  git config credential.username "todonos"
+   20  git push -u origin main
+   21  git status
+   22  git commit -m "Added main.py"
+   23  git add main.py
+   24  git push y origin main
+   25  git push -u origin main
+   26  python
+   27  python
+   28  git status
+   29  git add main.py
+   30  git commit -m
+   31  git commit -m 'Coded solution to string slicing exercise'
+   32  git push -u origin main
+   33  git status
+   34  git push -u origin main
+   35  pmd
+   36  history > history_day3.txt
