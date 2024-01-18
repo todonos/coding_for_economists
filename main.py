@@ -11,14 +11,22 @@ url = 'https://github.com/codedthinking/tender-home-bias/releases/download/v1.0/
 #copy/ paste is not allowed
 
 file_name = url[-14:]
-print(file_name) #ted-sample.csv
+print(file_name)  #ted-sample.csv
 
 protocol = url[0:5]
-print(protocol) #https
+print(protocol)  #https
 
 host_name = url[8:18]
-print(host_name) # 'github.com'
+print(host_name)  #'github.com'
 
 #Use string composition to construct http://github.com/ted-sample.csv
-
 all = protocol + '://' + host_name + '/codedthinking/tender-home-bias/releases/download/v1.0/' + file_name
+print(all)
+
+
+18 Jan 2024
+Lecture 4
+# Project: Home Bias Tender Data
+## Getting to know the Shell, git and Makefile
+
+In this project we download data form the Shell using curl and then create a derivative data file using csvkit
